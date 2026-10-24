@@ -1,0 +1,7 @@
+url: https://github.com/elysia9020/dsh-redstar-boot
+name: elysia9020/dsh-redstar-boot
+category: ui
+description:
+  en: 'Black-red boot sequence for DeepSeek Harness: a spinning red star, a hex data stream with three typed self-check lines, the original six-step authorization flow, and a typed Chinese/Russian welcome before the reveal.'
+  zh: '黑红开机动画：快速旋转的红星、十六进制数据流与三行光标打出的自检语、原六步授权流程，以及揭幕前中俄双语光标打字的「欢迎上线，同志」。'
+icon: https://raw.githubusercontent.com/elysia9020/dsh-redstar-boot/main/docs/icon-180.png
